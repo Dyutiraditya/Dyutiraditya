@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Dyutiraditya
 - 👀 I’m interested in JAVA 
 - 🌱 I’m currently learning JAVA
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me www.linkedin.com/in/dyutiraditya-patri
 
 <!---
