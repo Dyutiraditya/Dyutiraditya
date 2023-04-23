@@ -19,12 +19,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dyutriraditya-patri) [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/Dyutiraditya_)
 
 ---
-### Visitors count: <p align="center">
+### 🎎 Visitors count: <p align="center">
   <img src="https://profile-counter.glitch.me/Dyutiraditya/count.svg" />
   
   ---
   
-### Github Stats
+### 📊 Github Stats
   ![Github stats](https://github-readme-stats.vercel.app/api?username=Dyutiraditya&show_icons=true&theme=tokoyonight)
   
   ---
