@@ -28,8 +28,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Dyutiraditya&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Dyutiraditya&theme=monokai&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dyutiraditya&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
